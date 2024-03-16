@@ -1,0 +1,48 @@
+					|| Analog Clock ||
+
+Hello my name is Aman. Currently I'm a diploma student of Information Technology at 'Government Polytechnic Kanpur'. 
+
+This project is a simple analog clock created using HTML, CSS, and JavaScript. It provides a visually appealing representation of time using traditional clock hands, making it a fun and educational addition to any web page.
+
+How to Use:
+
+    Extract the Files:
+        Extract the HTML, CSS, and JavaScript files provided in this repository to your local machine.
+
+    Open the HTML File:
+        Open the index.html file in your preferred web browser. This will launch the analog clock.
+
+    View the Analog Clock:
+        Once the HTML file is opened, you will see the analog clock displayed on the web page. The clock hands will rotate according to the current time.
+
+Files Included:
+
+    index.html: This file contains the structure of the web page and embeds the JavaScript code responsible for creating the analog clock.
+
+    index.css: This file contains the styling for the analog clock, including the positioning and appearance of the clock hands and the clock face.
+
+    index.js: This file contains the JavaScript code that powers the analog clock. It calculates the current time and updates the position of the clock hands accordingly.
+
+Customization:
+
+    Clock Size: You can adjust the size of the clock by modifying the width and height properties in the CSS file (styles.css).
+    Clock Colors: Modify the colors of the clock hands and clock face by editing the respective properties in the CSS file.
+    Clock Design: Feel free to customize the design of the clock hands or add additional styling to suit your preferences.
+
+Compatibility:
+
+This analog clock should work on most modern web browsers, including Chrome, Firefox, Safari, and Edge. It utilizes standard HTML, CSS, and JavaScript features and does not rely on any external libraries or frameworks.
+
+Credits:
+
+This project was created by myself Aman. Feel free to use, modify, and distribute it according to the terms of the provided license.
+
+License:
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Feedback and Contributions:
+
+If you have any feedback, suggestions, or would like to contribute to this project, please feel free to open an issue or submit a pull request.
+
+Enjoy your analog clock!
